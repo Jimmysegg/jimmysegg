@@ -1,7 +1,12 @@
 <html>
   <body>
     <main>
-      <h1>CatPhotoApp</h1>
+      <h1>jemes' website :D</h1>
       <section>
-        <h2>Cat Photos</h2>
+        <h2>jemes' favorite things</h2>
+        <ul>
+          <li>legos</li>
+          <li>cheese</li>
+          <li>cats</li>
+        </ul>
         
